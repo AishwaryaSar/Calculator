@@ -1,2 +1,2 @@
 # Calculator
-Calculator Console application 
+Calculator Console application in C#
